@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats-theta-silk-n09w48tgar.vercel.app/api/top-langs/?username=aarolehtoaho&layout=compact&langs_count=10&theme=prussian&hide=shaderlab,hlsl,mathematica,wolfram%20language&exclude_repo=xr-systems-hw1,xr-systems-hw2)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 
 
 <h3 align="left">Personal Projects:</h3>
@@ -53,6 +53,10 @@
 <a href="https://github.com/aarolehtoaho/tira-2025-aarolehtoaho">Data Structures and Algorithms (Private)</a>      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 
 - Implemented core data structures and algorithms in Java and applied them to different tasks.
+
+<a href="https://github.com/aarolehtoaho/programming2-aaro-lehtoaho">Programming 3 (Private)</a>      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/>        <img src="https://cdn-icons-png.flaticon.com/512/288/288873.png" alt="http" width="20" height="20"/>
+
+- Implemented server-side functionality, designed database, and handled concurrency.
 
 <a href="https://github.com/aarolehtoaho/programming2-aaro-lehtoaho">Programming 2</a>      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 
