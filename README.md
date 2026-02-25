@@ -54,7 +54,7 @@
 
 - Implemented core data structures and algorithms in Java and applied them to different tasks.
 
-<a href="https://github.com/aarolehtoaho/programming2-aaro-lehtoaho">Programming 3 (Private)</a>      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/>        <img src="https://cdn-icons-png.flaticon.com/512/288/288873.png" alt="http" width="20" height="20"/>
+<a href="https://github.com/aarolehtoaho/programming-3">Programming 3 (Private)</a>      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/>        <img src="https://cdn-icons-png.flaticon.com/512/288/288873.png" alt="http" width="20" height="20"/>
 
 - Implemented server-side functionality, designed database, and handled concurrency.
 
